@@ -1,0 +1,37 @@
+body {
+    font-family: 'Updock', sans-serif;
+    line-height: 1.5;
+    text-align: start;
+    color: #333111;
+    margin: 20px;
+  }
+  
+  a {
+    color: #74638f;
+  }
+  
+  a:visited {
+    color: #ab9d78;
+  }
+  
+  #main {
+    margin: 30px 10px;
+    padding: 15px;
+  }
+  
+  img {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+  }
+  
+  #img-div {
+    background: white;
+    margin: 0;
+  }
+  
+  #img-caption {
+    margin: 15px 0 5px 0;
+  }
+  
